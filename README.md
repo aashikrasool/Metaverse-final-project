@@ -1,6 +1,8 @@
 ## Metaverse Class Final Project
-- Project Title: ![Automated teaching in metaverse]
-
+- Project Title:
+  '''
+  Automated teaching in metaverse
+'''
 
   ## Authors:
 - Aashik Rasool
