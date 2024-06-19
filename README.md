@@ -1,9 +1,10 @@
 ## Metaverse Class Final Project
 - Project Title:
-  '''
-  Automated teaching in metaverse
-'''
+ 
 
+```
+ Automated teaching in metaverse
+```
   ## Authors:
 - Aashik Rasool
 - Hyoungsun Choi
